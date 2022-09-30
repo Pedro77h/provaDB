@@ -62,7 +62,7 @@ A tabela <i>disciplina</i> é a tabela aonde se guarda os dados da disciplina a 
   <li>carga_hora: carga horaria da disciplina cursada</li>
 </ul>
 
-<h2>Tabela Relacional <i>turm_profess</i></h2>
+<h2>Tabela Relacional <i>tur_diss</i></h2>
 A tabela <i>turm_profess</i> é a tabela de relacionamento entre a tabela turma e a tabela disciplina
 <ul>
    <li>fk_turma_cod_turma: chave estrangeira que faz referência a tabela <i>turma</i>      </li>
